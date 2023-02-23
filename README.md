@@ -17,7 +17,7 @@ This will make the ganache local blockchain network exposed on PORT 8080
 
 # Then open new terminal and runn the following commands to host dApp:
 
-### cd / ethereum -test
+### cd / blockchaindemo
 ### truffle compile
 ### truffle migrate
 ### npm run dev
